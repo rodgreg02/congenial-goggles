@@ -4,7 +4,6 @@ public class Mummy extends Monster{
     public Mummy() {
         this.attackPoints = 95;
         this.healthPoints = 200;
-        this.alive = true;
     }
 
     @Override

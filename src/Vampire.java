@@ -4,7 +4,6 @@ public class Vampire extends Monster{
     public Vampire() {
         this.healthPoints = 550;
         this.attackPoints = 150;
-        this.alive = true;
     }
 
     @Override
